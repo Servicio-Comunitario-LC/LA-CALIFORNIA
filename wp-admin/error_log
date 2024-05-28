@@ -1,0 +1,12 @@
+[30-Apr-2024 23:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 1643
+[30-Apr-2024 23:31:12 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 191
+[01-May-2024 16:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 1650
+[01-May-2024 16:43:29 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 191
+[01-May-2024 17:06:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 1650
+[01-May-2024 17:06:44 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 191
+[01-May-2024 17:26:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 1650
+[01-May-2024 17:26:11 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 191
+[01-May-2024 18:01:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 1650
+[01-May-2024 18:01:33 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 191
+[02-May-2024 04:47:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 1650
+[02-May-2024 04:47:59 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/campusi2/public_html/lacalifornia/wp-content/themes/Divi/core/components/Portability.php on line 191
