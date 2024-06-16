@@ -2,7 +2,6 @@
 
 ![Logo](https://campusiutirlaempresarial.com/lacalifornia/wp-content/uploads/2024/05/cropped-logo-3-1.png)
 
-
 Blog informativo de la comunidad "La Califonia". Este blog va dirigido para los habitantes de la comunidad y visitantes externos. 
 
 ## Autores
