@@ -5,6 +5,7 @@
 Blog informativo de la comunidad "La Califonia". Este blog va dirigido para los habitantes de la comunidad y visitantes externos. 
 
 
+
 ## Autores
 
 - [@LuisanaBMG](https://github.com/LuisanaBMG)
@@ -12,6 +13,7 @@ Blog informativo de la comunidad "La Califonia". Este blog va dirigido para los 
 - [@Lisandrojosee](https://github.com/Lisandrojosee)
 - [@AlejandraH17](https://github.com/AlejandraH17)
 - [@Ariannymg](https://github.com/Ariannymg)
+
 
 
  ## Referencia de color 
