@@ -1,6 +1,6 @@
 # LA-CALIFORNIA
 
-![Logo](https://campusiutirlaempresarial.com/lacalifornia/wp-content/uploads/2024/05/logo-3-1.png)
+![Logo](https://campusiutirlaempresarial.com/lacalifornia/wp-content/uploads/2024/05/cropped-logo-3-1.png)
 
 ## Autores
 
