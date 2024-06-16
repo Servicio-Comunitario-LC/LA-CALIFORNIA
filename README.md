@@ -1,5 +1,7 @@
 # LA-CALIFORNIA
 
+![Logo](https://campusiutirlaempresarial.com/lacalifornia/wp-content/uploads/2024/05/logo-3-1.png)
+
 ## Autores
 
 - [@LuisanaBMG](https://github.com/LuisanaBMG)
