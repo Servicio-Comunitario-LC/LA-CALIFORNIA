@@ -1,11 +1,9 @@
-# LA-CALIFORNIA
+# LA CALIFORNIA 
 
 ![Logo](https://campusiutirlaempresarial.com/lacalifornia/wp-content/uploads/2024/05/cropped-logo-3-1.png)
 
-Blog informativo de la comunidad "La Califonia". Este blog va dirigido para los habitantes de la comunidad y visitantes externos. 
-
-
-
+Blog informativo de la comunidad "La California". 
+> Este blog va dirigido para los habitantes de la comunidad y visitantes externos, con el propósito de facilitar el intercambio de información, opiniones y experiencias, así como también, promover la participación ciudadana y la integración social.
 
 
 ## Autores
@@ -15,11 +13,10 @@ Blog informativo de la comunidad "La Califonia". Este blog va dirigido para los 
 - [@Lisandrojosee](https://github.com/Lisandrojosee)
 - [@AlejandraH17](https://github.com/AlejandraH17)
 - [@Ariannymg](https://github.com/Ariannymg)
+- [@Agabo32](https://github.com/Agabo32)
 
 
-
-
- ## Referencia de color 
+ ## Referencias de Color 
 
 | Color             | Codigo de color                                                               |
 | ----------------- | ------------------------------------------------------------------ |
