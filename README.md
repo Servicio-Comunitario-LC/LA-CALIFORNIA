@@ -1,5 +1,4 @@
-# LA CALIFORNIA 
-
+# LA CALIFORNIA - Comunidad Interactiva.
 ![Logo](https://campusiutirlaempresarial.com/lacalifornia/wp-content/uploads/2024/05/cropped-logo-3-1.png)
 
 Blog informativo de la comunidad "La California". 
